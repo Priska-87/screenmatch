@@ -1,4 +1,4 @@
-🎬 Screenmatch: Tu Compañera de Series
+<h1>🎬 Screenmatch: Tu Compañera de Series </h1>
 
 ¡Bienvenido a Screenmatch! Si eres fan de las series, esta app es para ti. Aquí puedes buscar series por género, explorar temporadas específicas y administrar tu contenido como un experto.
 
